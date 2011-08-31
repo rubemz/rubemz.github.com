@@ -4,7 +4,7 @@
   <title>Nakamura's Blog</title>
   <link href="http://rubemz.github.com/atom.xml" rel="self"/>
   <link href="http://rubemz.github.com/"/>
-  <updated>2011-08-31T18:30:23-03:00</updated>
+  <updated>2011-08-31T18:32:41-03:00</updated>
   <id>http://rubemz.github.com/</id>
   <author>
     <name>Rubem Nakamura</name>
@@ -17,10 +17,10 @@
     <link href="http://rubemz.github.com/blog/2011/08/31/my-first-post/"/>
     <updated>2011-08-31T18:09:00-03:00</updated>
     <id>http://rubemz.github.com/blog/2011/08/31/my-first-post</id>
-    <content type="html">&lt;blockquote&gt;&lt;p&gt;I finished my blog in less than 10 minutes.&lt;/p&gt;&lt;/blockquote&gt;
+    <content type="html">&lt;p&gt;I would like to share with everyone how easy is to start blogging using &lt;a href='http://octopress.org/'&gt;Octopress&lt;/a&gt;.&lt;/p&gt;
 
+&lt;blockquote&gt;&lt;p&gt;I finished my blog in less than 10 minutes.&lt;/p&gt;&lt;/blockquote&gt;
 
-&lt;p&gt;I would like to share with everyone how easy is to start blogging using &lt;a href='http://octopress.org/'&gt;Octopress&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   
