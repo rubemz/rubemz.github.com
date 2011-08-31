@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Nakamura's Blog</title>
+  <link href="http://rubemz.github.com/atom.xml" rel="self"/>
+  <link href="http://rubemz.github.com/"/>
+  <updated>2011-08-31T18:02:45-03:00</updated>
+  <id>http://rubemz.github.com/</id>
+  <author>
+    <name>Rubem Nakamura</name>
+    
+  </author>
+
+  
+</feed>
